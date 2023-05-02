@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <strong><em>Luke Liverpool</em></strong></h1>
-<h3 align="center">A passionate front-end developer/engineer from New York City</h3>
+<h1 align="center">Hi 👋, I'm Luke Liverpool</h1>
+<h3 align="center"><em>A passionate front-end developer/engineer from New York City</em></h3>
 
 - 🌱 I’m currently learning **Api**
 
