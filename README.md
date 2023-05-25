@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke Liverpool</h1>
 <h3 align="center"><em>A passionate front-end developer/engineer from New York City</em></h3>
 
-- 🌱 I’m currently learning **API** and **REACT**
+- 🌱 I’m currently learning **TESTING** and **REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TriniLuke?tab=repositories](https://github.com/TriniLuke?tab=repositories)
 
